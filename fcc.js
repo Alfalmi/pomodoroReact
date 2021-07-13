@@ -17,6 +17,7 @@ const accurateInterval = function (fn, time) {
   };
 };
 
+// componentes
 
 class TimerLengthControl extends React.Component {
   render() {
